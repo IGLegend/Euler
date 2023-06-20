@@ -4,7 +4,7 @@ All code used to solve the problems are in the directory with the number of the 
 Only upload problems which have been worked on during the weekly meeting.
 
 ## Suggestions for fun problems:
-21: Amicable Numbers
+21: Amicable Numbers\
 25: 1000-digit fobonacci number      (Seems pretty easy)
 
 ## Solving now:
