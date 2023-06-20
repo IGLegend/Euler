@@ -50,7 +50,7 @@ def main():
             if checkFormula(a, b)[0] > mostPrimes[0]:
                 mostPrimes = checkFormula(a, b)
     
-    print(f"{mostPrimes}")
+    print(f"Amount of primes of n² + an + b, product of a and b: {mostPrimes}.")
 
 
 if __name__ == "__main__":
